@@ -1,0 +1,46 @@
+body{
+    margin: 50px;
+    background-color: indianred;
+    font-family: "Century Gothic";
+    text-align: center;
+
+
+}
+
+#backToButtons{
+    padding-top: 5px;
+    font-size: medium;
+    color: darkslategray;
+}
+
+#displayTable, tr, td{
+    background-color: lavenderblush;
+    width: 90%;
+    margin: auto;
+    border: 5px solid black;
+    text-align: left;
+}
+
+.info{
+    font-size: x-large;
+    padding: 20px;
+}
+
+#artistInput{
+    width: 70%;
+    margin: auto;
+}
+
+h1{
+    color:white;
+}
+
+.in{
+    color: white;
+    font-size: x-large;
+    padding: 30px;
+}
+
+#container{
+    border: 5px solid white;
+}
